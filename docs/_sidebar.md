@@ -19,6 +19,7 @@
 - Graph Theory
     - [最短路问题](./graph-theory/最短路问题.md)
     - [最小生成树](./graph-theory/最小生成树.md)
+    - [二分图](./graph-theory/二分法.md)
     - [Network Flow](./graph-theory/network-flow.md)
 
 - Math
