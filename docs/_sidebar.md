@@ -23,3 +23,4 @@
     - [Network Flow](./graph-theory/network-flow.md)
 
 - Math
+    - [数论](./math/数论.md)
