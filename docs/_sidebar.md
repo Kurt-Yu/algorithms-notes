@@ -1,6 +1,11 @@
+- 算法基础
+    - [排序](./fundamentals/排序算法.md)
+    - [二分查找](./fundamentals/二分法.md)
+    - [前缀和与差分](./fundamentals/前缀和与差分.md)
 - Data Structures
     - [Array / Vector](./data-structures/vector.md)
     - [Linked List]()
+    - [栈](./data-structures/栈.md)
     - [Heap]()
     - [Map]()
     - Tree
@@ -10,17 +15,14 @@
         - [Binary Search Tree](./tree/binary-search-tree.md)
         - [Lowest Common Anacestor](./tree/lowest-common-ancestor.md)
 - Advanced Data Structures
-
+    - [Segment Tree]()
 - Dynamic Programming
     - [DP on Strings](./dynamic-programming/string-dp.md)
     - [AtCoder Educational DP Contest](./dynamic-programming/atcoder-educational-dp.md)
-- Algorithm Design Patterns
-
 - Graph Theory
     - [最短路问题](./graph-theory/最短路问题.md)
     - [最小生成树](./graph-theory/最小生成树.md)
     - [二分图](./graph-theory/二分图.md)
     - [Network Flow](./graph-theory/network-flow.md)
-
 - Math
     - [数论](./math/数论.md)
